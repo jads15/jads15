@@ -22,11 +22,14 @@ Estudante de Ciência de Dados e Inteligência Artificial, focado em fundamenta�
   * **Shell Script:** Processamento e manipulação de arquivos de texto/CSV (`grep`, `sed`, `awk`, `cut`, `sort`).
 
 * **Estruturas de Dados & Algoritmos (ALEST):**
-  * Listas Encadeadas (Simples e Duplas).
+  * Listas Encadeadas (Simples e Duplas)  .
+  * Pilhas, Filas
+  * arvores
+  * noções de algoritmos de ordenação
   * Análise Assintótica de Complexidade (Notação Big-O).
 
 * **Matemática & Estatística:**
-  * **Cálculo Diferencial e Integral:** Técnicas de Integração, Problemas de Valor Inicial (PVI).
+  * **Cálculo Diferencial e Integral:** derivadas, Técnicas de Integração, Problemas de Valor Inicial (PVI).
   * **Estatística & Probabilidade:** Distribuições discretas/contínuas (Binomial, Poisson, Normal), Teorema de Bayes, Cálculo de Esperança e Variância.
   * **Álgebra Linear & Lógica:** Operações matriciais, Determinantes, Álgebra Booleana, Lógica Proposicional e Dedução Natural.
 
