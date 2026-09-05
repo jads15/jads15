@@ -38,9 +38,4 @@ Estudante de Ciência de Dados e Inteligência Artificial, focado em fundamenta�
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jads15&show_icons=true&theme=radial" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jads15&layout=compact&theme=radial" alt="Linguagens mais usadas" width="48%" />
-</p>
