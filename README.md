@@ -15,7 +15,7 @@ Estudante de Ciência de Dados e Inteligência Artificial, focado em fundamenta�
 
 ---
 
-### 💻 Áreas de Atuação e Conhecimentos
+### 💻 Áreas de Interesse e Conhecimentos
 
 * **Programação & Paradigmas:**
   * **Python:** Orientação a Objetos avançada (Classes Abstratas, Decoradores, Dunder Methods), Manipulação e Análise de Dados (noções de Pandas e NumPy).
