@@ -31,7 +31,7 @@ Estudante de Ciência de Dados e Inteligência Artificial, focado em fundamenta�
 * **Matemática & Estatística:**
   * **Cálculo Diferencial e Integral:** derivadas, Técnicas de Integração, Problemas de Valor Inicial (PVI).
   * **Estatística & Probabilidade:** Distribuições discretas/contínuas (Binomial, Poisson, Normal), Teorema de Bayes, Cálculo de Esperança e Variância.
-  * **Álgebra Linear & Lógica:** Operações matriciais, Determinantes, Álgebra Booleana, Lógica Proposicional e Dedução Natural.
+  * **Álgebra Linear & Lógica:** Operações matriciais, Determinantes, Álgebra Booleana 
 
 ---
 
